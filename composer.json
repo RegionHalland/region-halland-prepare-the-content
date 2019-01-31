@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-prepare-the-content",
+    "description": "Front-end-plugin som preparera 'the_content' med id och slug",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
