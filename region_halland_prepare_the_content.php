@@ -6,9 +6,9 @@
 	/*
 	Plugin Name: Region Halland Prepare The Content
 	Description: Lägger till ett ID med slut i alla rubriker (h2, h3 och h4)
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Roland Hydén
-	License: MIT
+	License: GPL-3.0
 	Text Domain: regionhalland
 	*/
 

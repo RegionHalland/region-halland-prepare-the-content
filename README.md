@@ -11,6 +11,13 @@ Denna plugin lägger till id och slug för alla h2, h3 och h4-rubriker.
 Detta kan vara användbart om man exempelvis vill bygga en "hitta-på-sidan".
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
+```sh
+LICENSE (https://github.com/RegionHalland/region-halland-prepare-the-content/blob/master/LICENSE)
+```
+
 ## Installation och aktivering
 
 ```sh
@@ -74,6 +81,10 @@ OBS! Justera så att du hämtar aktuell version.
 
 
 ## Versionhistorik
+
+### 1.1.0
+- Uppdaterat med information om licensmodell
+- Bifogat fil med licensmodell
 
 ### 1.0.0
 - Första version
