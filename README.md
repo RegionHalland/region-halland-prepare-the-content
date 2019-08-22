@@ -74,13 +74,16 @@ OBS! Justera så att du hämtar aktuell version.
 ## Detta skapar då id med slug inuti "the_content" enligt:
 
 ```sh
-<h2 id="lorem-ipsum">Lorem ipsum</h2>
-<h3 id="lorem-ipsum-dolares">Lorem ipsum dolares</h3>
-<h4 id="lorem-integer-metus">Lorem integer metus</h4>
+<h2 id="lorem-ipsum-1">Lorem ipsum</h2>
+<h3 id="lorem-ipsum-dolares-2">Lorem ipsum dolares</h3>
+<h4 id="lorem-integer-metus-3">Lorem integer metus</h4>
 ```
 
 
 ## Versionhistorik
+
+### 1.2.0
+- Lagt till löpnummer i slutet på respektive slug
 
 ### 1.1.0
 - Uppdaterat med information om licensmodell
