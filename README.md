@@ -82,6 +82,9 @@ OBS! Justera så att du hämtar aktuell version.
 
 ## Versionhistorik
 
+### 1.2.1
+- Justerade en bugg med en variabel
+
 ### 1.2.0
 - Lagt till löpnummer i slutet på respektive slug
 
