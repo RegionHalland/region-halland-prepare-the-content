@@ -82,6 +82,9 @@ OBS! Justera så att du hämtar aktuell version.
 
 ## Versionhistorik
 
+### 1.3.0
+- Ersätter "," och "/" med ""
+
 ### 1.2.1
 - Justerade en bugg med en variabel
 

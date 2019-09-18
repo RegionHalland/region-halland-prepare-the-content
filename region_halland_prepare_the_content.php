@@ -6,7 +6,7 @@
     /*
     Plugin Name: Region Halland Prepare The Content
     Description: Lägger till ett ID med slut i alla rubriker (h2, h3 och h4)
-    Version: 1.2.1
+    Version: 1.3.0
     Author: Roland Hydén
     License: MIT
     Text Domain: regionhalland
@@ -86,6 +86,8 @@
         $tmpSlug = str_replace(")","",$tmpSlug);
         $tmpSlug = str_replace("?","",$tmpSlug);
         $tmpSlug = str_replace("!","",$tmpSlug);
+        $tmpSlug = str_replace(",","",$tmpSlug);
+        $tmpSlug = str_replace("/","",$tmpSlug);
         $tmpSlug = str_replace("Ö","o",$tmpSlug);
         $tmpSlug = str_replace("ö","o",$tmpSlug);
         $tmpSlug = str_replace("Ä","a",$tmpSlug);
